@@ -44,7 +44,7 @@
       <td><b>Amerce E-Commerce</b></td>
       <td>
         Full e-commerce clothing store: shop with working filters (search, category, price range, rating, sort) and pagination,
-        dynamic product pages, cart with variants (color / size), checkout, account settings, blog, wishlist, and more.
+        dynamic product pages, cart, checkout, account settings, blog, wishlist, and more.
       </td>
       <td>React, Vite, React Router, Context API, Material UI, React Bootstrap, Axios, FakeStore API</td>
       <td><a href="https://value-clothes-e-commerce-prj.vercel.app/">Live demo</a></td>
