@@ -49,7 +49,7 @@
       <td>React, Vite, React Router, Context API, Material UI, React Bootstrap, Axios, FakeStore API</td>
       <td><a href="https://value-clothes-e-commerce-prj.vercel.app/">Live demo</a></td>
     </tr>
-    <tr>
+    <tr style="background-color:transparent">
       <td><b>Personal Portfolio</b></td>
       <td>
         My personal portfolio website: who I am, my skills, my projects, and how to contact me.
