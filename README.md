@@ -62,7 +62,6 @@
 
 <h3>🎯 Currently Learning &amp; Building</h3>
 <ul>
-  <li>Finishing my portfolio: 3 frontend projects, then adding a backend to each to make them full-stack</li>
   <li>Learning Node.js &amp; Express (NodeJS - The Complete Guide)</li>
   <li>Going deeper into React architecture: Context API, <code>useReducer</code>, custom hooks, clean component organization</li>
   <li>Next step after that: Next.js</li>
