@@ -6,7 +6,7 @@
   I'm a third-year university student building my portfolio and looking for my first frontend developer role, with a plan to grow into full-stack (Node.js / Express).
 </p>
 
-<h3>🛠 Things I code with</h3>
+<h3>🛠 Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -22,7 +22,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>📚 Also studied</h3>
+<h3>📚 Also familiar with</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
@@ -33,10 +33,10 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Project</b></td>
-      <td><b>📝 What it is</b></td>
-      <td><b>⚙️ Built with</b></td>
-      <td><b>🔗 Links</b></td>
+      <td><b>📁 Project</b></td>
+      <td><b>📝 Description</b></td>
+      <td><b>⚙️ Tech</b></td>
+      <td><b>🔗 Demo</b></td>
     </tr>
   </thead>
   <tbody>
@@ -60,7 +60,7 @@
   </tbody>
 </table>
 
-<h3>🎯 What I'm working on</h3>
+<h3>🎯 Currently Learning &amp; Building</h3>
 <ul>
   <li>Finishing my portfolio: 3 frontend projects, then adding a backend to each to make them full-stack</li>
   <li>Learning Node.js &amp; Express (NodeJS - The Complete Guide)</li>
@@ -68,12 +68,12 @@
   <li>Next step after that: Next.js</li>
 </ul>
 
-<h3>🌱 Background &amp; interests</h3>
+<h3>🌍 Open to Work</h3>
 <ul>
   <li>Open to remote opportunities</li>
 </ul>
 
-<h3>📫 Where to find me</h3>
+<h3>📫 Let's Connect</h3>
 <p>
   <a href="https://github.com/hazem-mohamed-ismail" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hazem-mohamed-ismail-219134272/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
