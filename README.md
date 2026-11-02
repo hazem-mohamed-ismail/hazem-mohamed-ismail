@@ -27,10 +27,6 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <h3>🚀 Projects</h3>
@@ -45,35 +41,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Value Clothes (Amerce)</b></td>
+      <td><b>Amerce E-Commerce</b></td>
       <td>
         Full e-commerce clothing store: shop with working filters (search, category, price range, rating, sort) and pagination,
         dynamic product pages, cart with variants (color / size), checkout, account settings, blog, wishlist, and more.
       </td>
       <td>React, Vite, React Router, Context API, Material UI, React Bootstrap, Axios, FakeStore API</td>
-      <td><a href="https://amercereactjs.vercel.app">Live demo</a></td>
+      <td><a href="https://value-clothes-e-commerce-prj.vercel.app/">Live demo</a></td>
     </tr>
-    <tr>
-      <td><b>Auth</b></td>
-      <td>
-        Authentication app with signup, login, forgot password, dashboard, and update profile.
-        Currently wiring each form to Firebase.
-      </td>
-      <td>React, Firebase Auth, React Bootstrap, React Router, Context API</td>
-      <td><i>In progress</i></td>
-    </tr>
-    <tr>
-      <td><b>Guess the Number</b></td>
-      <td>My first backend project: a simple game served with Node.js and Express.</td>
-      <td>Node.js, Express</td>
-      <td><a href="https://github.com/YOUR_USERNAME">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><b>Real-time Analytics Dashboard</b></td>
-      <td>Admin dashboard with charts, real-time data, and drag &amp; drop.</td>
-      <td>React</td>
-      <td><i>Coming next</i></td>
-    </tr>
+    
   </tbody>
 </table>
 
