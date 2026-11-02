@@ -41,14 +41,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Personal Portfolio</b></td>
-      <td>
-        My personal portfolio website: who I am, my skills, my projects, and how to contact me.
-      </td>
-      <td>React, deployed on Vercel</td>
-      <td><a href="https://hazem-mohamed-ismail-portfolio.vercel.app/">Live demo</a></td>
-    </tr>
-    <tr>
       <td><b>Amerce E-Commerce</b></td>
       <td>
         Full e-commerce clothing store: shop with working filters (search, category, price range, rating, sort) and pagination,
@@ -56,6 +48,14 @@
       </td>
       <td>React, Vite, React Router, Context API, Material UI, React Bootstrap, Axios, FakeStore API</td>
       <td><a href="https://value-clothes-e-commerce-prj.vercel.app/">Live demo</a></td>
+    </tr>
+    <tr>
+      <td><b>Personal Portfolio</b></td>
+      <td>
+        My personal portfolio website: who I am, my skills, my projects, and how to contact me.
+      </td>
+      <td>React, deployed on Vercel</td>
+      <td><a href="https://hazem-mohamed-ismail-portfolio.vercel.app/">Live demo</a></td>
     </tr>
   </tbody>
 </table>
